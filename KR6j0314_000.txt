@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 聖多羅菩薩一百八名陀羅尼經
+#+DATE: 2015-08-30 20:30:08.133096
+#+PROPERTY: JUAN 0
